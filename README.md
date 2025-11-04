@@ -1,4 +1,6 @@
-## Hi there 👋
+## JEONG MIN JUN 😎
+
+
 
 <!--
 **minjunJeong32214059/minjunJeong32214059** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
