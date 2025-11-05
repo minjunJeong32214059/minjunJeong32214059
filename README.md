@@ -8,6 +8,9 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=flat-square&logo=Eclipse%20IDE&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=flat-square&logo=Android%20Studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/minjunJeong32214059)
+
+
 
 
 ## 🧠 Algorithm / Problem Solving
@@ -16,6 +19,6 @@
 ## 📬 Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jj353535jj@gmail.com)](jj353535jj@gmail.com)
 
-#![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjunjeong32214059&show_icons=true&theme=radical)
+![Minjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjunjeong32214059&show_icons=true&theme=radical)
 
 
