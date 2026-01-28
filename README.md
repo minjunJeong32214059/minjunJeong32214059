@@ -74,8 +74,8 @@
 
 ---
 
-### **운동하는 단국인**
-###### 2025.10 ~ 
+### **운동하는 단국인** **[GitHub link](https://github.com/minjunJeong32214059/Term-project-MobileProgramming)** 
+###### 2025.10 ~ 2025.12
 
 **Android 기반 운동 기록 관리 앱**
 - 선택한 운동을 세트·횟수 단위로 기록·조회하는 기능 구현
