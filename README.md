@@ -1,4 +1,4 @@
-## 정민준 (Jeong Min-jun)
+# 정민준 (Jeong Min-jun)
 ![profile](./myimg.png)
 
 ---
