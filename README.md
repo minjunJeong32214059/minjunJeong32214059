@@ -1,4 +1,3 @@
-# 📝About-me
 ## 정민준 (Jeong Min-jun)
 ![profile](./myimg.png)
 
