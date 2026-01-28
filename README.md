@@ -25,7 +25,7 @@
 
 # 🎓 Education
 - 2021.03~  단국대학교 소프트웨어학과 재학
-   - GPA: **4.13**/4.5
+   - GPA: **4.16**/4.5
 
 ---
 
@@ -42,10 +42,12 @@
 - VSCode
 - Eclipse IDE
 - Android Studio
+- Kubernetes
 
 ### 💬 Communication
 - Slack
 - Notion
+- Trello
 
 ---
 
