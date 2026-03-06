@@ -63,16 +63,6 @@
 - JSON 파일 저장·불러오기 기능으로 사용자 기록 지속 관리
 - 일일 식단 기록을 .txt 파일로 내보내 외부 보관 가능하도록 설계
 
---- 
-### **단국배달** **[GitHub link](https://github.com/minjunJeong32214059/DankookDeliveryAppProject)** 
-###### 2024.11 ~ 2024.12
-
-**C 기반 콘솔 배달 주문 시뮬레이션 프로그램**
-- 메뉴·장바구니·주문 데이터를 동적으로 관리할 수 있는 구조 설계
-- 음식점·메뉴 정보를 외부 파일에서 불러와 실제 배달 앱 구조 재현
-- 주문, 결제, 배달 단계의 흐름을 사용자 친화적으로 설계
-- 마일리지 적립 및 쿠폰 발급 기능 구현 통해 사용자 만족도 고려
-
 ---
 
 ### **운동하는 단국인** **[GitHub link](https://github.com/minjunJeong32214059/Term-project-MobileProgramming)** 
@@ -85,6 +75,18 @@
 - 날짜별 운동 기록을 Room Database에 저장해 지속적인 기록 관리 구현
 
 ---
+
+### **메모정(Memo-"Jeong")** **[GitHub link](https://github.com/minjunJeong32214059/memo-project)** 
+###### 2026.01 ~ 2026.02
+
+**Java Spring Boot 기반 개인용 미니 메모 앱**
+- Java 23 및 Spring Boot, JPA를 활용한 효율적인 메모 CRUD 기능 구현
+- MySQL 8.0 연동 및 데이터 영구 보존을 위한 데이터베이스 구조 설계
+- Docker 및 Docker Compose를 활용한 애플리케이션·DB 컨테이너화 및 독립적 네트워크 구축
+- AWS EC2 클라우드 환경 배포 및 EBS 볼륨 마운트를 통한 데이터 안정성 확보
+
+---
+
 
 # 🌍 Language
 | Test | Score | Acquired on |
