@@ -42,6 +42,7 @@
 - VSCode
 - Eclipse IDE
 - Android Studio
+- Docker
 - Kubernetes
 
 ### 💬 Communication
@@ -76,7 +77,7 @@
 
 ---
 
-### **메모정(Memo-"Jeong")** **[GitHub link](https://github.com/minjunJeong32214059/memo-project)** 
+### **메모정 (Memo-"Jeong")** **[GitHub link](https://github.com/minjunJeong32214059/memo-project)** 
 ###### 2026.01 ~ 2026.02
 
 **Java Spring Boot 기반 개인용 미니 메모 앱**
