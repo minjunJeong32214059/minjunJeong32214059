@@ -31,11 +31,13 @@
 
 #  💪 Skills
 
-### 💻Programming Languages  
+### 💻Programming Languages / Framework 
 - Java
 - C
+- Spring Boot
 
 ### 🗄️Database
+- PostgreSQL
 - MySQL
  
 ### 🛠Tools / IDE  
