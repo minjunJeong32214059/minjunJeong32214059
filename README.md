@@ -39,6 +39,7 @@
 ### 🗄️Database
 - PostgreSQL
 - MySQL
+- Redis
  
 ### 🛠Tools / IDE  
 - VSCode
